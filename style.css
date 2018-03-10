@@ -4,6 +4,7 @@ Author: chsyu
 Version: 1.9
 */
 
-h1 {
-    color: red;
+
+.header-title {
+   color: red
 }
