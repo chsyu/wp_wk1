@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 <h1 class="event-title">Event Lists</h1>
+<a href="<?php echo site_url() ?>">Home</a>
 <?php
         while(have_posts()){
             the_post(); ?>

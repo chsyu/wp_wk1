@@ -7,6 +7,3 @@
 </head>
 <body>
     <h1>Sample Page Header</h1>
-
-
-    
